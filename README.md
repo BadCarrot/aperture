@@ -18,11 +18,9 @@ A videogame archeological project regarding Valve's F-STOP.
 Most of the F-STOP code is located within the developer repository of L4D2, and is severely broken.
 
 # F-STOP IN PORTAL 2
-There are a lot of f-stop references in:
-"
+There are a lot of f-stop references in Portal 2:
 weapon_placement
 weapon_camera
 m_bPlacingPhoto
 m_bShowingViewfinder
-"
 Other than that, no traces of F-STOP were found in the reverse engineered Portal 2 code.
