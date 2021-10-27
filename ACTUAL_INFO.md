@@ -11,5 +11,5 @@
 	5. The Dollhouse mechanic: a small dollhouse, which after you scale it up, you can step inside it. (A CBaseAnimating with 2 worldportals attached)
 # Code 
 
-	Most of the F-STOP code is located within the developer repository of L4D2, and is severely broken.
+	Most of the F-STOP's source code is located within the developer repository of L4D2, and it is severely broken.
 	There are pieces of F-STOP's source code in the April 23rd CSGO leak. (More specifically: in viewrender.cpp and cbaseanimating.cpp)
