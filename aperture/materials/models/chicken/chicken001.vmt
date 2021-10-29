@@ -1,0 +1,11 @@
+VertexlitGeneric
+{
+$basetexture "models\chicken\chicken001"
+$phong 1
+$phongBoost 2
+$phongTint "[1.2 1 1.0]"
+$phongFresnelRanges "[.2 .5 1]"
+$phongdisablehalflambert 1
+$nocull 1
+$surfaceprop flesh
+}
