@@ -1,0 +1,6 @@
+LightMappedGeneric
+{
+$basetexture "plaster/plasterwall004a"
+$surfaceprop default
+"%keywords" aperture
+}
